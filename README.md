@@ -58,5 +58,3 @@ La plupart de ces dépôts sont privés (code d'entreprises et de clients). Le d
 **Données et infra** : PostgreSQL · Prisma · MySQL · Redis · Docker · Docker Compose · Coolify · CI/CD GitHub Actions  
 **Produit et SaaS** : Architecture multi-tenant · Stripe (abonnements, Connect, séquestre) · Better Auth / NextAuth · Emails transactionnels (Resend) · Jobs asynchrones (BullMQ, Trigger.dev) · Intégration de LLM  
 **Qualité et outils** : Biome · Vitest · Jest · Playwright · Sentry · Git · GitHub · GitLab · Claude Code et agents
-
-<sub>Ce README est généré depuis les données de mon CV.</sub>
