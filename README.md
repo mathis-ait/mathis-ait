@@ -42,15 +42,6 @@ Développeur full-stack depuis 2021, j'ai conçu et fait tourner en production d
 
 La plupart de ces dépôts sont privés (code d'entreprises et de clients). Le détail des projets est sur le [CV en ligne](https://www.mathis-aitbraham.fr).
 
-## Activité
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
-  <img src="./assets/activity-light.svg" alt="Activité des 12 derniers mois" width="100%">
-</picture>
-
-<sub>Comptés dans tous mes dépôts GitHub, personnels et clients, y compris les commits que GitHub ne rattache pas à mon profil.</sub>
-
 ## Stack
 
 **Backend** : TypeScript · Node.js · NestJS · tRPC · PHP · Symfony · Laravel · APIs REST  
